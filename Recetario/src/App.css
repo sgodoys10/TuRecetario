@@ -1,0 +1,19 @@
+.App {
+    background-color: #fefefe;
+    height: 100vh;
+    width: 100%; 
+}
+
+.intro {
+    text-align: center;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+.texto-intro {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: .5rem;
+}
+
