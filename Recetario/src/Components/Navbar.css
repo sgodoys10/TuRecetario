@@ -2,9 +2,9 @@
     background-color: #1d4ed8;
 }
 
-.container {
-    padding-left: 5%;
-    padding-right: 5%;
+.container { 
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 nav {
@@ -32,7 +32,7 @@ nav ul li {
     list-style: none;
 }
 
-nav ul li a {
+nav ul li a { 
     display: block;
     text-decoration: none;
     color: white; 
@@ -58,7 +58,7 @@ nav .menu {
 
 nav .menu span {
     height: 0.4rem; 
-    width: 100%; 
+    width: 100%;  
     background-color: #fff;
     border-radius: 0.2rem;
 }
